@@ -11,3 +11,6 @@ cv2.putText(img,text,(20,220),fontFace = cv2.FONT_ITALIC,fontScale = 0.6,color =
 
 cv2.imshow("Imagem",img)
 cv2.waitKey(0)
+
+
+#pip install opencv-python
